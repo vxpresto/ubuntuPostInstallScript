@@ -5,7 +5,8 @@
 Clone the repo !
 
 ```bash
-gh repo clone vxpresto/ubuntuPostInstallScript && cd ubuntuPostInstallSript/
+gh repo clone vxpresto/ubuntuPostInstallScript 
+cd ubuntuPostInstallSript/
 ```
 
 Then make the shell script executable and run it:
